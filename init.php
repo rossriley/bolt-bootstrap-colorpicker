@@ -1,5 +1,5 @@
 <?php
 
-namespace Bolt\Extension\sahassar\bootstrap-colorpicker;
+namespace Bolt\Extension\sahassar\bootstrapcolorpicker;
 
 $app['extensions']->register(new Extension($app));

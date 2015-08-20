@@ -1,14 +1,14 @@
 <?php
 
-namespace Bolt\Extension\sahassar\bootstrap-colorpicker;
+namespace Bolt\Extension\sahassar\bootstrapcolorpicker;
 
 use Bolt\Field\FieldInterface;
 
-class bootstrap-colorpicker implements FieldInterface {
+class bootstrapcolorpicker implements FieldInterface {
 
     public function getName()
     {
-        return 'bootstrap-colorpicker';
+        return 'bootstrapcolorpicker';
     }
 
     public function getTemplate()
