@@ -11,12 +11,12 @@ Field Usage
 Supported options:
 
 	color:
-  		type: bootstrapcolorpicker
-  		format: inline
-  		hidden: true
-        horizontal: true
-        inline: true
-        align: right
-        hidden: true
+  	    type: bootstrapcolorpicker
+  	    format: inline
+ 	    hidden: true
+            horizontal: true
+            inline: true
+            align: right
+            component: true
 
 Extension icon (color wheel) by Aha-Soft from the Noun Project. Color added (badly) to the icon by me.
